@@ -5,5 +5,7 @@ Basic texture using opengles
 - Texturing the shape using a url-imported bitmap (the url can be http and https proxy).
 
 Android studio 4.0.1
+
 compileSdkVersion 29
+
 buildToolsVersion 30.0.2
